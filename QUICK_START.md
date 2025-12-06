@@ -1,12 +1,4 @@
-# 🚀 Quick Start Guide
 
-Get the Backend Assessment up and running in 5 minutes!
-
-## Prerequisites
-
-- Node.js (v16+) installed
-- PostgreSQL installed and running
-- Git installed
 
 ## Step 1: Clone and Install (1 minute)
 
@@ -170,45 +162,4 @@ npm run lint           # Check code style
 npm run format         # Format code
 ```
 
-## 🎯 Quick API Reference
 
-| Method | Endpoint | Description | Auth Required |
-|--------|----------|-------------|---------------|
-| POST | `/auth/register` | Register new user | No |
-| POST | `/auth/login` | Login user | No |
-| GET | `/users` | Get all users | Yes |
-| GET | `/users/:id` | Get user by ID | Yes |
-| PATCH | `/users/:id` | Update user | Yes |
-| DELETE | `/users/:id` | Delete user | Yes |
-| POST | `/tasks` | Create task | Yes |
-| GET | `/tasks` | Get all tasks | Yes |
-| GET | `/tasks/:id` | Get task by ID | Yes |
-| PATCH | `/tasks/:id` | Update task | Yes |
-| DELETE | `/tasks/:id` | Delete task | Yes |
-
-## 📝 Next Steps
-
-1. ✅ Application is running
-2. 📖 Read the full `README.md` for detailed documentation
-3. 🧪 Check `TESTING_GUIDE.md` for comprehensive testing instructions
-4. ✔️ Review `SUBMISSION_CHECKLIST.md` before submitting
-
-## 💡 Pro Tips
-
-1. **Use Postman or Thunder Client** for easier API testing
-2. **Enable auto-reload** - The app automatically reloads when you make changes
-3. **Check logs** in the terminal for any errors
-4. **Use meaningful test data** to make testing easier
-5. **Keep your .env secure** - never commit it to git
-
-## 🆘 Need Help?
-
-- Check the full documentation in `README.md`
-- Review the testing guide in `TESTING_GUIDE.md`
-- Look at the submission checklist in `SUBMISSION_CHECKLIST.md`
-
----
-
-**Happy Coding! 🎉**
-
-*Built with ❤️ using NestJS, PostgreSQL, and TypeScript*
