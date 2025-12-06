@@ -390,22 +390,7 @@ For production deployment:
 9. Use connection pooling for database
 10. Add health check endpoints
 
-## 📄 License
 
 This project is created for assessment purposes for Code Inbound LLP.
 
-## 👤 Author
 
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
-
-## 🙏 Acknowledgments
-
-- Code Inbound LLP for the opportunity
-- NestJS documentation and community
-- TypeORM documentation
-
----
-
-**Built with ❤️ using NestJS and TypeScript**
