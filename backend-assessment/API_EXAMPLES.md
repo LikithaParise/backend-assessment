@@ -1,8 +1,4 @@
-# API Request Examples
 
-Ready-to-use API request examples for quick testing. Copy and paste these into your REST client.
-
----
 
 ## 🔑 Authentication Endpoints
 
@@ -646,17 +642,3 @@ async function getTasks() {
 
 ---
 
-## 🔄 Pagination Example (Future Enhancement)
-
-While the current API doesn't implement pagination, here's how you might call it if it did:
-
-```http
-GET http://localhost:3000/tasks?page=1&limit=10 HTTP/1.1
-Authorization: Bearer YOUR_ACCESS_TOKEN_HERE
-```
-
----
-
-**Happy Testing! 🚀**
-
-For more detailed testing instructions, see `TESTING_GUIDE.md`.
