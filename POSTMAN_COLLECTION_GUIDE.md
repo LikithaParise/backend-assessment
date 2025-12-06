@@ -1,8 +1,4 @@
-# Postman Collection Guide
 
-This guide will help you set up a Postman collection to test all API endpoints efficiently.
-
-## Setting Up Postman Collection
 
 ### Step 1: Create Environment Variables
 
@@ -534,4 +530,3 @@ pm.sendRequest({
 
 ---
 
-**Happy Testing with Postman! 🚀**
